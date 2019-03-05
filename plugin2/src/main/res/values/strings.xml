@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plugin1</string>
+    <string name="hello_message">UI util plugin2 hello</string>
+</resources>
